@@ -1,8 +1,7 @@
 This software designed for Beit Yatziv - University / collage with accommodation options.
 The software is designed to open calls for help in a particular place and work management.
 The software is used by employees for other employees
-The software has a server side and a client side, on the server side all the information is stored and all their jobs
-and status are managed and on the client side where calls are opened.
+The software has a server side and a client side, on the server side all the information is stored and all their jobs and status are managed and on the client side where calls are opened.
 The software works with the api of sending sms messages, and FLASK.
 The software using Hebrew language
 Software Features:
